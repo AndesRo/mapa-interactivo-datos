@@ -1,8 +1,8 @@
-# Mapa Interactivo de Datos Reales
+# Mapa Interactivo 
 
 Este proyecto genera un mapa interactivo con datos en tiempo real usando Python y Folium.
 
-## 🚀 Características
+## Características
 
 - Visualización de terremotos en tiempo real (USGS API)
 - Opción para datos climáticos (OpenWeatherMap)
@@ -11,7 +11,7 @@ Este proyecto genera un mapa interactivo con datos en tiempo real usando Python 
 - Heatmap de densidad
 - Exportación a HTML y CSV
 
-## 📋 Requisitos
+## Requisitos
 
 - Python 3.7+
 - Folium
