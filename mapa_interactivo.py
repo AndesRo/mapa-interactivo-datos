@@ -21,9 +21,9 @@ import requests
 from folium.plugins import MarkerCluster, HeatMap, Fullscreen, MiniMap
 
 # Configuración
-API_ELEGIDA = "terremotos"  # Cambiar entre: "terremotos", "clima", "incendios"
-API_KEY_OPENWEATHER = "47442571cbb67ffbbabbbf33efe1d5e1"  # Opcional: Para clima, obtener en openweathermap.org
-CENTER_COORDS = [-33.4489, -70.6693]  # Santiago, Chile
+API_ELEGIDA = "terremotos"  
+API_KEY_OPENWEATHER = "47442571cbb67ffbbabbbf33efe1d5e1"  
+CENTER_COORDS = [-33.4489, -70.6693]  
 ZOOM_INICIAL = 6
 ARCHIVO_SALIDA = "mapa_interactivo.html"
 ARCHIVO_JSON_FALLBACK = "datos_ejemplo.json"
