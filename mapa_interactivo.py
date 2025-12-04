@@ -21,7 +21,7 @@ import requests
 from folium.plugins import MarkerCluster, HeatMap, Fullscreen, MiniMap
 
 # Configuración
-API_ELEGIDA = "terremotos"  
+API_ELEGIDA = "clima"  
 API_KEY_OPENWEATHER = "47442571cbb67ffbbabbbf33efe1d5e1"  
 CENTER_COORDS = [-33.4489, -70.6693]  
 ZOOM_INICIAL = 6
