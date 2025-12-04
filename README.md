@@ -31,3 +31,4 @@ pip install -r requirements.txt
 python mapa_interactivo.py
 ```
 # mapa_interactivo-datos
+# mapa-interactivo-datos
